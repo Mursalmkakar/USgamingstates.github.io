@@ -4,9 +4,8 @@
 
 layout: default
 title: Home
+permalink: /
 ---
 
-# Home
+# **Commercial casino industry in United States**
 
-
-## Analysis of the commercial casino industry in United States
